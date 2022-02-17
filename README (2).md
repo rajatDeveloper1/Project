@@ -4,10 +4,9 @@ The purpose of Be Strong is to motivate the indian youth in order to achieve the
 
 
 
-## Authors
+## Author
 
 - Rajat Kumar
-- Shikhar Saxena
 
   
 ## Documentation
@@ -29,14 +28,13 @@ I'm a full stack web developer...
 
   
 ## 🛠 Skills
-Javascript, HTML, CSS...
+HTML, CSS...
 
   
 ## FAQ
 
 #### What is your Email id
-
-rk6568886@gmail.com
+rajatec98@gmail.com
 
 
 
